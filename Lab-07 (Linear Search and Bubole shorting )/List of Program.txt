@@ -1,0 +1,5 @@
+01.That take can some number and display maximum. 
+02.That take can some number and display minimum.
+03.Linear Search.
+04.bubble Shorting.
+05.2nd Largest Number. 

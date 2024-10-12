@@ -1,0 +1,9 @@
+ok.01.Perfect number.
+ok.02.Prime number.
+03.Print of array.
+04.Sum of Array.
+05.Using array sum of even number.
+06.Using array sum of odd number.
+07.Using array count of even number.
+08.Using array count of odd number.
+09.A array 10 less than total number count.

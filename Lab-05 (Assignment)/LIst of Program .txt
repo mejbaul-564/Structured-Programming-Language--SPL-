@@ -1,0 +1,6 @@
+01ok.Reverse number print.
+02ok.Check palindrome number Print.
+03ok.Count odd and Even number.
+04ok.Total digit count.
+05.Even and odd number show.
+06.A number sum of digit.

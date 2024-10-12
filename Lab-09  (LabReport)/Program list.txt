@@ -1,0 +1,3 @@
+01.Factorial
+02.Fibbonacci series
+03.Power 

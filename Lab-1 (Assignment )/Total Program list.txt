@@ -1,0 +1,9 @@
+ok-01.Area of circle
+ok-02.Area of square
+ok-03.If a circle is contained within a square, find the area of the square minus the area of the circle
+ok-04.Take the values   of two variables where the value of variable 1 is printed as variable 2 and the value of variable 2 is printed as variable 1
+ok-05.Input the value of a centimeter and extract the value of kilometers, meters and centimeters from it
+ok-06.Input the value of a second and extract the value of hour, minute and second from it.
+ok-07.Input the value of a day and extract the value of year, month and day from it.
+08.celcius 2 ferhenhite
+09.ferhenhite 2 celcius
